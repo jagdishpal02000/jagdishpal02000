@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available under [Repository Section](https://github.com/jagdishpal02000?tab=repositories)
 
-- 💬 Majorly worked with **Python**
+- 💬 Majorly worked with **Node JS and React JS**
 
-- 📫 How to reach me **dummy.Jagdish@gmail.com**
+- 📫 How to reach me **Jagdishpal02000@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
