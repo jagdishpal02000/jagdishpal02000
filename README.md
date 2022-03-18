@@ -1,5 +1,5 @@
 <!--
-**opeeyum/opeeyum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jagdishpal02000/jagdishpal02000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,26 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋, I'm Omprakash 😉 </h1>
+<h1 align="center">Hi there 👋, I'm Jagdish </h1>
 <h3 align="center">A Student Pursuing Bachelor of Technology in Computer Science.</h3>
 
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=opeeyum&label=Profile%20views&color=0e75b6&style=flat" alt="opeeyum" /> 
+ <img src="https://komarev.com/ghpvc/?username=jagdishpal02000&label=Profile%20views&color=0e75b6&style=flat" alt="jagdishpal02000" /> 
 </p>
 
 <p> 
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=opeeyum" alt="opeeyum" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jagdishpal02000" alt="jagdishpal02000" />
  </a> 
 </p >
 
-- 🌱 I'm Currently learning **Django and Django Rest Framework**
+- 🌱 I'm Currently learning **React and Node JS**
 
-- 👨‍💻 All of my projects are available under [Repository Section](https://github.com/opeeyum?tab=repositories)
+- 👨‍💻 All of my projects are available under [Repository Section](https://github.com/jagdishpal02000?tab=repositories)
 
 - 💬 Majorly worked with **Python**
 
-- 📫 How to reach me **dummy.omprakash@gmail.com**
+- 📫 How to reach me **dummy.Jagdish@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -50,13 +50,15 @@ Here are some ideas to get you started:
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>  
+
+   <a href="https://www.w3schools.com/nodejs/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Nodejs" width="40" height="40"/> 
+  </a> 
+  
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=opeeyum&show_icons=true&locale=en&layout=compact" alt="opeeyum" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagdishpal02000&show_icons=true&locale=en&layout=compact" alt="jagdishpal02000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=opeeyum&show_icons=true&locale=en" alt="opeeyum" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagdishpal02000&show_icons=true&locale=en" alt="jagdishpal02000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=opeeyum&" alt="opeeyum" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagdishpal02000&" alt="jagdishpal02000" /></p>
